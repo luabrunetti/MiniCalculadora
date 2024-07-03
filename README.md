@@ -1,4 +1,4 @@
-# Mini Calculadora
+# Mini Calculadora 😎
 <h3>Esse é o HTML do código: Aprendi melhor sobre os inputs, os botões e como fazer um resultado.</h3>
 <br>
 ![html](https://github.com/luabrunetti/MiniCalculadora/assets/162700949/c2f4212b-9df1-4ff8-ac13-fd2357f6f0f5)
